@@ -4,7 +4,7 @@
 <div align="center">
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=“신기술에+관심이+많은+개발자+입니다.”;)](https://git.io/typing-svg) 
   
 </div>
 
@@ -35,12 +35,27 @@
 
 </div>
 
-## Contact📫
+## Career 📫
 <div align=center>
-</div>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=laststar)](https://solved.ac/laststar)
+<img src="http://mazandi.herokuapp.com/api?handle=laststar&theme=warm"/>
+
+</div>
+
+
+## Github-stats ⏲️
+<div align=center>
+
+
+<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> 
+<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer)
 
 <!--
 **laststar0203/laststar0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
