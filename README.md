@@ -43,6 +43,7 @@
 <br/>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=flat-square&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=flat-square&logo=oracle&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?&style=flat-square&logo=apache%20spark&logoColor=white" />
