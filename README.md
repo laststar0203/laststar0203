@@ -51,6 +51,11 @@
 <img src="https://img.shields.io/badge/elastic%20stack-%23005571.svg?&style=flat-square&logo=elastic%20stack&logoColor=white" />
 </div>
 
+## Paper 📃
+<div align=left>
+- NFT(Non-Fungible Token) Patent Trend Analysis using Topic Modeling [link](https://doi.org/10.9708/jksci.2023.28.12.041)
+</div> 
+
 ## Activity 📫
 <div align=center>
 
