@@ -73,10 +73,11 @@
 <div align=center>
 
 
-<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> 
-<img src="https://raw.githubusercontent.com/hyejee0504/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laststar0203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laststar0203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer)
 
