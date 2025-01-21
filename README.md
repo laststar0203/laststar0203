@@ -54,6 +54,8 @@
 ## Paper 📃
 <div align=left>
 - NFT(Non-Fungible Token) Patent Trend Analysis using Topic Modeling [link](https://doi.org/10.9708/jksci.2023.28.12.041)
+  <br/>
+  <br/>
 </div> 
 
 ## Activity 📫
